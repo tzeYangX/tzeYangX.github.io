@@ -1,1 +1,13 @@
 theme: jekyll-theme-minimal
+
+# Site settings
+title: tzeYangX's crusade       # 你的博客网站标题
+
+description: "Vision Algorithm"    # 随便说点，描述一下
+
+# SNS settings      
+github_username:  tzeYangX     # 你的github账号
+
+
+# Build settings
+# paginate: 10              # 一页你准备放几篇文章
